@@ -54,12 +54,12 @@
 <br><br><hr><br><br><br>
 
                      
-					 <table><center>
+					  <center> <table>
                          <tr>
                              <td><img SRC="image/p1.png" width="450"  height ="400"></td>
                              <td><img SRC="image/p2.png" width="450"  height ="400"></td>
                          </tr>
-                    </center> </table>
+                   </table></center>
 			     
 			 
 			 
