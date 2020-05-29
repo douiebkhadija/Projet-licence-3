@@ -12,8 +12,6 @@
 
      </head>
 	 
-
-	 
          <body>
 
              <div id ="banner1">
@@ -79,7 +77,7 @@
                         les musées d'ethnologie.
 				 </p>
 				 </center>
-			 <div><br>
+			 </div><br>
 
      <br><br><br>
 
