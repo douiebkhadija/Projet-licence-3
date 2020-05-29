@@ -46,19 +46,19 @@
 
                  <div id="text">
                  <h4> <center> Unconserve, étudie, expose et transmet le patrimoine matériel et immatériel de l’humanité et de son environnement à des fins d'études, d'éducation et de délectation. 
-					 </center>< musée est une institution permanente sans but lucratif au service de la société et de son développement ouverte au public, qui acquiert,
-                                  /h4>
+					 musée est une institution permanente sans but lucratif au service de la société et de son développement ouverte au public, qui acquiert,
+                                </center> </h4>
 			     </div><br>
 
-                 <br><br><br><br><br><br>
+                 <br><br><br><hr><br><br><br>
 
                  <div id="img">
                 <center>
                 <table>
                  <tr>
-                  <td><a><img SRC="image/louvre1.jpg" ></a><center><p>Musée de Louvre</p></center></td>
-                  <td><a><img SRC="image/cité-science.jpg" ></a><center><p>Cité des sciences</p><center></td>
-                  <td><a><img SRC="image/orsay.jpg" ></a><center><p>Musée d'Orsay</p></center></td>
+                  <td><img SRC="image/louvre1.jpg"  ></td>
+                  <td><img SRC="image/cité-science.jpg"></td>
+                  <td><img SRC="image/orsay.jpg" ></td>
                 </tr>
                 </table>
                  </center>
