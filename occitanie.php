@@ -55,24 +55,23 @@
 			 
 <br><br><hr><br><br><br>
 
-                     <table>
-					 <center>
+                     <center><table>
+	
                          <tr>
                              <td><img SRC="image/O1.png" width="600"  height ="350"></td>
                              <td><img SRC="image/O2.png" width="600"  height ="350"></td>
                          </tr>
-						 </center>
-					 </table>
+					 </table></center>
 			  
 <br>
-                     <table>
-					  <center>
+                     <center><table>
+					 
                          <tr>
                              <td><img SRC="image/O3.png" width="600"  height ="350"></td>
                              <td><img SRC="image/O4.png" width="600"  height ="350"></td>
                          </tr>
-						 </center>
-                     </table>
+						 </table></center>
+                     
 
 
 <br><hr><br><br><br>
