@@ -70,9 +70,9 @@
                              <td><img SRC="image/d3.png" width="200"  height ="350"></td>
                              <td><img SRC="image/d4.png" width="200"  height ="350"></td>
                          </tr>
-						<center>
+						</center>
                      </table>
-                 </center>
+            
            
 			
 <br><hr><br><br><br>
