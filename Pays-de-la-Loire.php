@@ -1,3 +1,7 @@
+<?php
+	session_start();
+?>
+
 <!DOCTYPE html>
 <html>
 
@@ -50,12 +54,12 @@
 <br><br><hr><br><br><br>
 
                      
-					 <center><table>
+					 <table><center>
                          <tr>
                              <td><img SRC="image/p1.png" width="450"  height ="400"></td>
                              <td><img SRC="image/p2.png" width="450"  height ="400"></td>
                          </tr>
-                     </table></center>
+                    </center> </table>
 			     
 			 
 			 
