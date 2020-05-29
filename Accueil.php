@@ -1,9 +1,14 @@
+<?php
+	session_start();
+?>
+
+<!DOCTYPE html>
 <html>
 
      <head>
 
          <title>Musées</title>
-         <meta charset="utf-8"/>
+         <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
          <link rel="stylesheet" href="style/style.css" type="text/css" media="screen"/>
          <link rel="file:///C:/MAMP/htdocs/Musees/Accueil.php"/>
          <link rel="file:///C:/MAMP/htdocs/Musees/musee.php"/>
@@ -34,49 +39,43 @@
 			 
 	 <br><br><br><br><br><br><br>
 
-  
-             <div>
                  <h1>
 				 <center>Découvrez nos musées selon la région où vous allez !</center>
-				</h1>
-			</div><br>
- 
+				 </h1>
+			
 
-             <div id="text">
-                 <h4>
-				     <center> Un musée est une institution permanente sans but lucratif au service de la société et de son développement ouverte au public, qui acquiert,
-                                  conserve, étudie, expose et transmet le patrimoine matériel et immatériel de l’humanité et de son environnement à des fins d'études, d'éducation et de délectation. 
-					 </center>
-                </h4>
-			</div><br>
+                 <div id="text">
+                 <h4> <center> Unconserve, étudie, expose et transmet le patrimoine matériel et immatériel de l’humanité et de son environnement à des fins d'études, d'éducation et de délectation. 
+					 </center>< musée est une institution permanente sans but lucratif au service de la société et de son développement ouverte au public, qui acquiert,
+                                  /h4>
+			     </div><br>
 
-     <br><br><br><br><br><br>
+                 <br><br><br><br><br><br>
 
-            <div id="img">
-<center>
-<table>
-<tr>
-<td><a><img SRC="image/louvre1.jpg" ></a><center><p>Musée de Louvre</p></center></td>
-<td><a><img SRC="image/cité-science.jpg" ></a><center><p>Cité des sciences</p><center></td>
-<td><a><img SRC="image/orsay.jpg" ></a><center><p>Musée d'Orsay</p></center></td>
-
-</tr>
-</table>
-</center>
-</div>
+                 <div id="img">
+                <center>
+                <table>
+                 <tr>
+                  <td><a><img SRC="image/louvre1.jpg" ></a><center><p>Musée de Louvre</p></center></td>
+                  <td><a><img SRC="image/cité-science.jpg" ></a><center><p>Cité des sciences</p><center></td>
+                  <td><a><img SRC="image/orsay.jpg" ></a><center><p>Musée d'Orsay</p></center></td>
+                </tr>
+                </table>
+                 </center>
+                 </div>
 			 
      <br><br><br><br><br>
 	 
 <hr>
      <br><br><br>
   
-             <div>
+          
 			     <center>
-                     <h3>Les musées sont souvent spécialisés, il en existe principalement neuf grandes catégories :</h3></center></div>
+                     <h3>Les musées sont souvent spécialisés, il en existe principalement neuf grandes catégories :</h3></center>
 					 <br>
                  <div><center><p>les musées d'archéologie || les musées d'art || les Musée des Beaux-Arts || les musées des arts décoratifs || les musées d'histoire || les musées de sciences || musées d'histoire naturelle || les musées des techniques |
                         les musées d'ethnologie.
-				 </p></center></div>
+				 </p></center>
 
      <br><br><br>
 
