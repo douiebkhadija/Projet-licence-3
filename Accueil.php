@@ -3,7 +3,7 @@
      <head>
 
          <title>Musées</title>
-         <meta charset="utf-8">
+         <meta charset="utf-8"/>
          <link rel="stylesheet" href="style/style.css" type="text/css" media="screen"/>
          <link rel="file:///C:/MAMP/htdocs/Musees/Accueil.php"/>
          <link rel="file:///C:/MAMP/htdocs/Musees/musee.php"/>
@@ -58,9 +58,9 @@
                  <center>
                      <table>
                          <tr>
-                             <td><a><img SRC="image/louvre1.jpg"/><center><p>Musée de Louvre</p></center></td>
-                             <td><a><img SRC="image/cité-science.jpg"/><center><p>Cité des sciences</p></center></td>
-                             <td><a><img SRC="image/orsay.jpg"/><center><p>Musée d'Orsay</p></center></td>
+                             <td><a><img SRC="image/louvre1.jpg"></a><center><p>Musée de Louvre</p></center></td>
+                             <td><a><img SRC="image/cité-science.jpg"></a><center><p>Cité des sciences</p></center></td>
+                             <td><a><img SRC="image/orsay.jpg"></a><center><p>Musée d'Orsay</p></center></td>
                          </tr>
                      </table>
                  </center>
