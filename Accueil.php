@@ -52,16 +52,18 @@
 
      <br><br><br><br><br><br>
 
-             <div id="img">
-                 <center>
-                     <table>
-                         <tr><td><a><img SRC="image/louvre1.jpg"></a></td><td><center><p>Musée de Louvre</p></center></td></tr>
-                         <tr><td><a><img SRC="image/cité-science.jpg"></a></td><td><center><p>Cité des sciences</p></center></td></tr>
-                          <tr><td><a><img SRC="image/orsay.jpg"></a></td><td><center><p>Musée d'Orsay</p></center></td></tr>
-                      
-                     </table>
-                 </center>
-             </div>
+            <div id="img">
+<center>
+<table>
+<tr>
+<td><a><img SRC="image/louvre1.jpg" ></a><center><p>Musée de Louvre</p></center></td>
+<td><a><img SRC="image/cité-science.jpg" ></a><center><p>Cité des sciences</p><center></td>
+<td><a><img SRC="image/orsay.jpg" ></a><center><p>Musée d'Orsay</p></center></td>
+
+</tr>
+</table>
+</center>
+</div>
 			 
      <br><br><br><br><br>
 	 
