@@ -54,23 +54,22 @@
 			 
 <br><br><hr><br><br><br>
 
-                     <table>
-					  <center>
+                   <center>  <table>
+					
                          <tr>
                              <td><img SRC="image/n11.png" width="200"  height ="350"></td>
                              <td><img SRC="image/n22.png" width="200"  height ="350"></td>
 						</tr> 
-		          </center>
-				  </table>
+				  </table></center>
 <br>
-                     <table>
-					 <center>
+                     <center><table>
+					 
                          <tr>
                              <td><img SRC="image/n33.png" width="200"  height ="350"></td>
                              <td><img SRC="image/n44.png" width="200"  height ="350"></td>
                          </tr>
-						 </center>
-                     </table>
+						 
+                     </table></center>
                     
 </div>
 <br><hr><br><br><br>
