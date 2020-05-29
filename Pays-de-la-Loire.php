@@ -49,16 +49,16 @@
 
 <br><br><hr><br><br><br>
 
-             <div id="img">
-                 <center>
                      <table>
+					 <center>
                          <tr>
                              <td><img SRC="image/p1.png" width="450"  height ="400"></td>
                              <td><img SRC="image/p2.png" width="450"  height ="400"></td>
                          </tr>
+						</center>
                      </table>
-			     </center>
-			 </div>
+			     
+			 
 			 
 <br><hr><br><br><br>
 
