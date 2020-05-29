@@ -1,9 +1,14 @@
+<?php
+	session_start();
+?>
+
+<!DOCTYPE html>
 <html>
 
      <head>
 
          <title>Musées</title>
-         <meta charset="utf-8"/>
+         <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
          <link rel="stylesheet" href="style/style.css" type="text/css" media="screen" />
          <link rel="file:///C:/MAMP/htdocs/Musees/Accueil.php" />
          <link rel="file:///C:/MAMP/htdocs/Musees/musee.php" />
@@ -37,11 +42,11 @@
 	 <br><br><br><br><br><br><br>
 
   
-             <div>
+  
                  <h1>
 				     <center>Découvrez nos musées selon la région où vous allez !</center>
 				</h1>
-			</div><br>
+			 <br>
 
                  <h2><center> les Musées en Corse</center></h2>
  
@@ -57,7 +62,7 @@
                  <center>
                      <table>
                          <tr>
-                             <td><a><img SRC="image/corse1.png" width="800"  height ="300"></a></td>
+                             <td><img SRC="image/corse1.png" width="800"  height ="300"></td>
                          </tr>
                      </table>
                  </center>
@@ -65,14 +70,13 @@
 
 <br><hr><br><br><br>
 
-             <div>
-			     <center>
-				     <h3>Les musées sont souvent spécialisés, il en existe principalement neuf grandes catégories :</h3><br><br>
-                     <p>les musées d'archéologie || les musées d'art || les Musée des Beaux-Arts || les musées des arts décoratifs || les musées d'histoire || les musées de sciences || musées d'histoire naturelle || les musées des techniques |
-                         les musées d'ethnologie. </p>
-				 </center>
-             </div>
-			 
+             
+			     
+				     <h3><center>Les musées sont souvent spécialisés, il en existe principalement neuf grandes catégories :</center></h3><br><br>
+                     <p><center>les musées d'archéologie || les musées d'art || les Musée des Beaux-Arts || les musées des arts décoratifs || les musées d'histoire || les musées de sciences || musées d'histoire naturelle || les musées des techniques |
+                         les musées d'ethnologie.</center> </p>
+			
+           		 
 <br><br><br>
 
              <footer>
