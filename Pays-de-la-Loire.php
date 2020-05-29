@@ -44,9 +44,8 @@
 <hr><br><br>
 
              <div id="text">
-                 <h3><center>  La région Pays de la Loire, en forme simple « les Pays de la Loire »,<br>est une région du Grand Ouest français regroupant les départements 
-				               de la Loire-Atlantique, de Maine-et-Loire, de la Mayenne, de la Sarthe et de la Vendée.</center></h3>
-			 </div>
+                 <h3><center>  La région Pays de la Loire, en forme simple « les Pays de la Loire »,est une région du Grand Ouest français regroupant les départements 
+				               de la Loire-Atlantique, de Maine-et-Loire, de la Mayenne, de la Sarthe et de la Vendée.</center><h3></div>
 
 <br><br><hr><br><br><br>
 
@@ -80,4 +79,4 @@
 
          </body>
 		 
-</html>
+</html>>
