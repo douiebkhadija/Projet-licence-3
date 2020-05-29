@@ -55,14 +55,13 @@
              <div id="img">
                  <center>
                      <table>
-                         <tr>
-                             <td><a><img SRC="image/louvre1.jpg"></a></td><td><center><p>Musée de Louvre</p></center></td>
-                             <td><a><img SRC="image/cité-science.jpg"></a></td><td><center><p>Cité des sciences</p></center></td>
-                             <td><a><img SRC="image/orsay.jpg"></a></td><td><center><p>Musée d'Orsay</p></center></td>
-                         </tr>
+                         <tr><td><a><img SRC="image/louvre1.jpg"></a></td><td><center><p>Musée de Louvre</p></center></td></tr>
+                         <tr><td><a><img SRC="image/cité-science.jpg"></a></td><td><center><p>Cité des sciences</p></center></td></tr>
+                          <tr><td><a><img SRC="image/orsay.jpg"></a></td><td><center><p>Musée d'Orsay</p></center></td></tr>
+                      
                      </table>
                  </center>
-             </div><br>
+             </div>
 			 
      <br><br><br><br><br>
 	 
@@ -71,10 +70,11 @@
   
              <div>
 			     <center>
-                     <h3>Les musées sont souvent spécialisés, il en existe principalement neuf grandes catégories :</h3></center></div><br>
+                     <h3>Les musées sont souvent spécialisés, il en existe principalement neuf grandes catégories :</h3></center></div>
+					 <br>
                  <div><center><p>les musées d'archéologie || les musées d'art || les Musée des Beaux-Arts || les musées des arts décoratifs || les musées d'histoire || les musées de sciences || musées d'histoire naturelle || les musées des techniques |
                         les musées d'ethnologie.
-				 </p></center></div><br>
+				 </p></center></div>
 
      <br><br><br>
 
