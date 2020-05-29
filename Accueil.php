@@ -70,12 +70,12 @@
      <br><br><br>
   
           
-			     <center>
-                     <h3>Les musées sont souvent spécialisés, il en existe principalement neuf grandes catégories :</h3></center>
+
+                     <h3><center>Les musées sont souvent spécialisés, il en existe principalement neuf grandes catégories :</center></h3>
 					 <br>
-                 <div><center><p>les musées d'archéologie || les musées d'art || les Musée des Beaux-Arts || les musées des arts décoratifs || les musées d'histoire || les musées de sciences || musées d'histoire naturelle || les musées des techniques |
+                     <p><center>les musées d'archéologie || les musées d'art || les Musée des Beaux-Arts || les musées des arts décoratifs || les musées d'histoire || les musées de sciences || musées d'histoire naturelle || les musées des techniques |
                         les musées d'ethnologie.
-				 </p></center>
+				     </center></p>
 
      <br><br><br>
 
