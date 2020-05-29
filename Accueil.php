@@ -39,7 +39,7 @@
   
              <div>
                  <h1>
-				     <center>Découvrez nos musées selon la région où vous allez !</center>
+				 <center>Découvrez nos musées selon la région où vous allez !</center>
 				</h1>
 			</div><br>
  
@@ -58,9 +58,9 @@
                  <center>
                      <table>
                          <tr>
-                             <td><a><img SRC="image/louvre1.jpg" ></a><center><p>Musée de Louvre</p></center></td>
-                             <td><a><img SRC="image/cité-science.jpg" ></a><center><p>Cité des sciences</p><center></td>
-                             <td><a><img SRC="image/orsay.jpg" ></a><center><p>Musée d'Orsay</p></center></td>
+                             <td><a><img SRC="image/louvre1.jpg" /><center><p>Musée de Louvre</p></center></td>
+                             <td><a><img SRC="image/cité-science.jpg" /><center><p>Cité des sciences</p></center></td>
+                             <td><a><img SRC="image/orsay.jpg" /><center><p>Musée d'Orsay</p></center></td>
                          </tr>
                      </table>
                  </center>
@@ -73,10 +73,11 @@
   
              <div>
 			     <center>
-                     <h3>Les musées sont souvent spécialisés, il en existe principalement neuf grandes catégories :</h3><br>
-                         <p>les musées d'archéologie || les musées d'art || les Musée des Beaux-Arts || les musées des arts décoratifs || les musées d'histoire || les musées de sciences || musées d'histoire naturelle || les musées des techniques |
-                             les musées d'ethnologie.
-						 </p>
+                     <h3>Les musées sont souvent spécialisés, il en existe principalement neuf grandes catégories :</h3></center><br>
+                 <center> 
+				     <p>les musées d'archéologie || les musées d'art || les Musée des Beaux-Arts || les musées des arts décoratifs || les musées d'histoire || les musées de sciences || musées d'histoire naturelle || les musées des techniques |
+                        les musées d'ethnologie.
+				 </p>
 				 </center>
 			 <div><br>
 
