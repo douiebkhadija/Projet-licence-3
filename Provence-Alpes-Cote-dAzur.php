@@ -54,24 +54,24 @@
 			
 <br><hr><br><br>
 
-                     <table>
-					 <center>
+                     <center><table>
+				
                          <tr>
                              <td><img SRC="image/d1.png" width="200"  height ="350"></td>
                              <td><img SRC="image/d2.png" width="200"  height ="350"></td>
 					     </tr>
-						 </center>
-					 </table>
+						
+					 </table></center>
        
 <br>
-                     <table>
-					 <center>
+                     
+					 <center><table>
                          <tr>
                              <td><img SRC="image/d3.png" width="200"  height ="350"></td>
                              <td><img SRC="image/d4.png" width="200"  height ="350"></td>
                          </tr>
-						</center>
-                     </table>
+						  </table></center>
+                   
             
            
 			
