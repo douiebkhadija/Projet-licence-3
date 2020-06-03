@@ -71,7 +71,7 @@
 						 
                      </table></center>
                     
-</div>
+
 <br><hr><br><br><br>
 
 				     <h3><center>Les musées sont souvent spécialisés, il en existe principalement neuf grandes catégories :</center></h3><br><br>
